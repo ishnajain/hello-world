@@ -1,2 +1,2 @@
 # hello-world
-its about my ideas ,projects and much more
+i am a passionate coder
